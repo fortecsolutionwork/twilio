@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/twilio/static/css/main.abe2e982.chunk.css",
+    "main.js": "/twilio/static/js/main.c5813708.chunk.js",
+    "main.js.map": "/twilio/static/js/main.c5813708.chunk.js.map",
+    "runtime-main.js": "/twilio/static/js/runtime-main.149ac123.js",
+    "runtime-main.js.map": "/twilio/static/js/runtime-main.149ac123.js.map",
+    "static/js/2.02dd5c51.chunk.js": "/twilio/static/js/2.02dd5c51.chunk.js",
+    "static/js/2.02dd5c51.chunk.js.map": "/twilio/static/js/2.02dd5c51.chunk.js.map",
+    "index.html": "/twilio/index.html",
+    "static/css/main.abe2e982.chunk.css.map": "/twilio/static/css/main.abe2e982.chunk.css.map",
+    "static/js/2.02dd5c51.chunk.js.LICENSE.txt": "/twilio/static/js/2.02dd5c51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.149ac123.js",
+    "static/js/2.02dd5c51.chunk.js",
+    "static/css/main.abe2e982.chunk.css",
+    "static/js/main.c5813708.chunk.js"
+  ]
+}
